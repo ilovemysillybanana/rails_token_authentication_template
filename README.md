@@ -1,24 +1,6 @@
-# README
+# Rails 5 Api Token Authentication
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is just a basic template for anyone to download and use for setting a basic token authentication system for usage with javascript frontend frameworks such as Ember, React, Angular, etc.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## How can I help?
+You don't have to, it's pretty basic code. It could probably use some tests though. 
